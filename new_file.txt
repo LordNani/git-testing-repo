@@ -7,3 +7,33 @@ git add . OR git add filename.txt
 git commit -m "Message of the commit"
 
 git rm --cached filename.txt OR git rm --cached .
+
+git checkout branch-name
+
+git branch
+
+git branch new-branch-name OR git checkout -b new-branch-name
+
+git log
+
+git diff
+
+git merge which-branch-to-merge-into-current
+
+git remote add origin <url>
+
+git push -u origin branch-name
+
+git push
+
+git pull
+
+git fetch
+
+git clone <url>
+
+cd .. OR cd directory_name cd ~ (Users/you)
+
+pwd
+
+ls 
